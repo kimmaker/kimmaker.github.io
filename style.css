@@ -4,9 +4,14 @@ body {
 }
 
 .container {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  margin: 24 auto;
-  width: 480px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    position: absolute;
+    margin: auto;
+    top: 24;
+    right: 24;
+    bottom: 24;
+    left: 24;
+    width: 480px;
+    height: 100%;
 }
-
